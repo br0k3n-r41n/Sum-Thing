@@ -1,17 +1,10 @@
-Sum Thing V.1.1
+SUMTHING V.1.2
 
-Simple terminal-based maths game. Made to practice my beginner python.
-Features:
+Changelogs:
 
-Addition, subtraction, multiplication and division questions picked at random.
-Customisable minimum and maximum values for the 2 numbers.
-Statistics.
-Invisible failsafes to prevent division by 0 and a minimum value higher than the maximum.
-
-(Still pretty easy to crash lmao)
-
-Still being worked on and I hope to improve it as much as possible, even for a quite limited concept.
-
-Enjoy!
+- Added failsafes when a number is expected and a string recieved
+- Added 1-4 difficulty selector
+- Changed name from Sum Thing to SUMTHING
+- Changed the text on line 162 from "Would You Like To Play Again? (y/n) " to "press enter to continue or type & enter to end game"
 
 - _hofner (Discord)
